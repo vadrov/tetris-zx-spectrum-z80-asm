@@ -1,5 +1,10 @@
-;1996 RoVadSoft - Tetris
-;2020 Адаптировано для кроссассемблера тем же автором, но под ником VadRov 
+; 1996 RoVadSoft - Tetris
+; 2020 Адаптировано для кроссассемблера тем же автором, но под ником VadRov
+; Copyright (C) 2020, VadRov, all right reserved.
+; https://www.youtube.com/@VadRov
+; https://dzen.ru/vadrov
+; https://vk.com/vadrov
+; https://t.me/vadrov_channel 
 ; Мини-Тетрис для ZX-Spectrum 
 		device zxspectrum48
 
