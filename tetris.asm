@@ -2312,7 +2312,7 @@ strlen1
 		jr strlen1
 define_keys_txt
 		db 22,3,8,16,6,17,0,14,0,19,1,"бшанп сопюбкемхъ",19,0
-		db 22,21,2,16,6,"1996, 2022 VadSoft, VadRov"
+		db 22,21,2,16,6,"1996, 2020 VadSoft, VadRov"
 		db 22,22,7,12
 		dw dzen
 		db 16,7,17,0
