@@ -1,4 +1,4 @@
-Copyright (C) 2020, VadRov, all right reserved.
+Copyright (C)1996, 2020 VadRov / www.youtube.com/@VadRov / www.dzen.ru/vadrov
 
 # Игровая программа "Тетрис" для компьютера ZX-Spectrum 48 (и совместимых с ним)
 
